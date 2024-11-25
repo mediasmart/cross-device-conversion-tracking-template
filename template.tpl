@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Mediasmart Cross-device Conversion Tracking",
+  "categories": ["CONVERSIONS", "ADVERTISING","ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
