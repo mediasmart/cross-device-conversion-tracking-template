@@ -1,5 +1,7 @@
-# example-community-template
+# Cross-device Conversion Tracking template for GTM
 
-The example-community-template project is an example of a Google Tag Manager [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109) repository that can be used as a template to generate new community template repositories.
+Mediasmart Cross-device Conversion Tracking allows tracking conversions on CTV programmatic campaigns that run on mediasmart’s DSP using Google Tag Manager.
 
-To submit your own template, see the [detailed instructions on how to submit templates to the Community Template Gallery](https://developers.google.com/tag-manager/templates/gallery).
+For accurate tracking, the event id and event number need to be added to the click tracker and made transferrable to the landing page. This template shares the IP with Mediasmart to asses if the IP has been seen before or not. Those advertisers using this template must make sure that the user grants consent before triggering the tag associated to this template.
+
+See https://console.mediasmart.io/docs/introduction for more information.
