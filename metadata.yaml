@@ -13,7 +13,9 @@
 # limitations under the License.
 
 homepage: "https://www.mediasmart.io"
-documentation: "https://console.mediasmart.io/docs/introduction"
+documentation: "https://help.mediasmart.io/"
 versions:
+  - sha: 78de112a847e4d9242a1403371347d87e5932cac
+    changeNotes: Update documentation link
   - sha: 7ac887725f92a41a07bd5482d85cc2e2ad3aa2b4
     changeNotes: Initial Version
